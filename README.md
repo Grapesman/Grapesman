@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Здесь можно добавить баннер, если будет -->
+  <img src="images/banner.jpg" alt="Мой баннер" style="width: 100%; max-width: 1000px;" />
 </div>  
 
 ### <div align="left">Hi everyone. I'm Igor Vinogradov, Golang backend developer 👨‍💻</div>  
