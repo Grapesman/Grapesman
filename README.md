@@ -3,7 +3,7 @@
   <img src="images/photo.jpg" alt="Igor Vinogradov Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;" />
 </div>
 
-### <div align="left">Hi everyone! I'm Igor Vinogradov, a Golang backend developer 👨‍💻</div>
+### <div align="left">Hi everyone! I'm Igor, a Golang backend developer 👨‍💻</div>
 
 ## 👨‍💻 About Me
 I'm passionate about building reliable and efficient backend systems.
